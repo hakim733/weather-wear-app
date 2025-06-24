@@ -1,0 +1,41 @@
+{
+    "model_version": "1.0",
+    "accuracy": 0.3,
+    "features": [
+        "temp",
+        "humidity",
+        "wind_speed"
+    ],
+    "label_map": {
+        "Jacket and jeans": 0,
+        "Jacket and jeans + Gloves": 1,
+        "Jacket and jeans + Gloves + Windbreaker": 2,
+        "Jacket and jeans + Umbrella": 3,
+        "Jacket and jeans + Umbrella + Windbreaker": 4,
+        "Jacket and jeans + Windbreaker": 5,
+        "Shorts and T-shirt": 6,
+        "Shorts and T-shirt + Gloves": 7,
+        "Shorts and T-shirt + Gloves + Windbreaker": 8,
+        "Shorts and T-shirt + Umbrella": 9,
+        "Shorts and T-shirt + Umbrella + Windbreaker": 10,
+        "Shorts and T-shirt + Windbreaker": 11,
+        "Sweater and jeans": 12,
+        "Sweater and jeans + Gloves": 13,
+        "Sweater and jeans + Gloves + Windbreaker": 14,
+        "Sweater and jeans + Umbrella": 15,
+        "Sweater and jeans + Umbrella + Windbreaker": 16,
+        "Sweater and jeans + Windbreaker": 17,
+        "T-shirt and jeans": 18,
+        "T-shirt and jeans + Gloves": 19,
+        "T-shirt and jeans + Gloves + Windbreaker": 20,
+        "T-shirt and jeans + Umbrella": 21,
+        "T-shirt and jeans + Umbrella + Windbreaker": 22,
+        "T-shirt and jeans + Windbreaker": 23,
+        "Winter coat and boots": 24,
+        "Winter coat and boots + Gloves": 25,
+        "Winter coat and boots + Umbrella": 26,
+        "Winter coat and boots + Umbrella + Windbreaker": 27,
+        "Winter coat and boots + Windbreaker": 28
+    },
+    "date_trained": "2025-06-24T13:50:28.017919"
+}

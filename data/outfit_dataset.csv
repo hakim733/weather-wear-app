@@ -1,0 +1,251 @@
+temp,humidity,wind_speed,condition,outfit
+-1.1,89,16.2,Thunderstorm,Winter coat and boots + Windbreaker
+19.7,95,21.9,Clouds,Sweater and jeans + Windbreaker
+29.6,31,3.1,Thunderstorm,Shorts and T-shirt
+34.9,75,17.7,Snow,Shorts and T-shirt + Gloves + Windbreaker
+35.5,34,3.2,Clouds,Shorts and T-shirt
+7.7,93,17.6,Snow,Jacket and jeans + Gloves + Windbreaker
+8.5,31,0.7,Drizzle,Jacket and jeans + Umbrella
+2.3,65,6.5,Thunderstorm,Jacket and jeans
+23.3,65,2.1,Drizzle,T-shirt and jeans + Umbrella
+36.6,95,23.2,Drizzle,Shorts and T-shirt + Umbrella + Windbreaker
+-10.0,64,22.9,Drizzle,Winter coat and boots + Umbrella + Windbreaker
+3.9,62,0.3,Thunderstorm,Jacket and jeans
+-1.1,91,3.8,Thunderstorm,Winter coat and boots
+27.2,25,17.5,Drizzle,T-shirt and jeans + Umbrella + Windbreaker
+34.3,96,12.8,Rain,Shorts and T-shirt + Umbrella
+10.7,89,9.3,Rain,Sweater and jeans + Umbrella
+38.6,58,22.8,Clear,Shorts and T-shirt + Windbreaker
+2.5,77,4.4,Clouds,Jacket and jeans
+-5.6,54,7.3,Snow,Winter coat and boots + Gloves
+-9.2,41,1.7,Drizzle,Winter coat and boots + Umbrella
+39.2,43,11.5,Rain,Shorts and T-shirt + Umbrella
+25.8,34,21.7,Snow,T-shirt and jeans + Gloves + Windbreaker
+27.4,97,21.4,Rain,T-shirt and jeans + Umbrella + Windbreaker
+26.5,23,16.2,Snow,T-shirt and jeans + Gloves + Windbreaker
+17.5,79,20.9,Clouds,Sweater and jeans + Windbreaker
+-5.4,32,16.7,Clouds,Winter coat and boots + Windbreaker
+23.9,46,19.8,Rain,T-shirt and jeans + Umbrella + Windbreaker
+35.5,89,16.3,Drizzle,Shorts and T-shirt + Umbrella + Windbreaker
+6.0,64,20.1,Rain,Jacket and jeans + Umbrella + Windbreaker
+4.1,67,3.0,Rain,Jacket and jeans + Umbrella
+10.4,27,18.1,Clear,Sweater and jeans + Windbreaker
+27.3,71,14.7,Rain,T-shirt and jeans + Umbrella
+1.3,83,15.4,Thunderstorm,Jacket and jeans + Windbreaker
+10.9,68,2.7,Thunderstorm,Sweater and jeans
+15.2,58,21.1,Snow,Sweater and jeans + Gloves + Windbreaker
+17.9,37,9.4,Rain,Sweater and jeans + Umbrella
+25.1,78,18.2,Clear,T-shirt and jeans + Windbreaker
+1.7,97,19.6,Clear,Jacket and jeans + Windbreaker
+18.2,38,24.4,Snow,Sweater and jeans + Gloves + Windbreaker
+36.3,47,2.9,Drizzle,Shorts and T-shirt + Umbrella
+23.7,46,8.6,Drizzle,T-shirt and jeans + Umbrella
+1.1,93,14.5,Clear,Jacket and jeans
+24.4,89,13.4,Rain,T-shirt and jeans + Umbrella
+33.9,92,9.2,Clouds,Shorts and T-shirt
+6.6,52,19.4,Thunderstorm,Jacket and jeans + Windbreaker
+5.5,30,24.0,Snow,Jacket and jeans + Gloves + Windbreaker
+4.2,71,1.4,Rain,Jacket and jeans + Umbrella
+5.9,66,6.3,Drizzle,Jacket and jeans + Umbrella
+4.3,94,3.8,Snow,Jacket and jeans + Gloves
+16.5,100,16.4,Snow,Sweater and jeans + Gloves + Windbreaker
+8.2,31,3.1,Snow,Jacket and jeans + Gloves
+14.7,64,6.5,Rain,Sweater and jeans + Umbrella
+35.0,46,19.0,Clouds,Shorts and T-shirt + Windbreaker
+30.6,29,18.0,Snow,Shorts and T-shirt + Gloves + Windbreaker
+20.9,93,0.1,Drizzle,T-shirt and jeans + Umbrella
+35.9,55,8.6,Clouds,Shorts and T-shirt
+21.5,99,23.2,Clear,T-shirt and jeans + Windbreaker
+-0.3,27,19.1,Clear,Winter coat and boots + Windbreaker
+16.8,85,12.7,Drizzle,Sweater and jeans + Umbrella
+13.0,94,15.6,Thunderstorm,Sweater and jeans + Windbreaker
+26.2,55,2.6,Clouds,T-shirt and jeans
+1.1,38,17.3,Rain,Jacket and jeans + Umbrella + Windbreaker
+-6.5,40,18.2,Rain,Winter coat and boots + Umbrella + Windbreaker
+-3.9,75,16.7,Thunderstorm,Winter coat and boots + Windbreaker
+31.8,42,21.2,Thunderstorm,Shorts and T-shirt + Windbreaker
+6.6,68,14.2,Rain,Jacket and jeans + Umbrella
+-7.7,33,12.2,Rain,Winter coat and boots + Umbrella
+5.6,24,12.3,Rain,Jacket and jeans + Umbrella
+20.7,45,14.2,Thunderstorm,T-shirt and jeans
+23.2,44,19.5,Snow,T-shirt and jeans + Gloves + Windbreaker
+1.0,27,1.7,Drizzle,Jacket and jeans + Umbrella
+9.8,66,20.1,Clouds,Jacket and jeans + Windbreaker
+36.4,24,10.9,Thunderstorm,Shorts and T-shirt
+27.5,73,14.2,Rain,T-shirt and jeans + Umbrella
+-5.9,95,20.9,Clouds,Winter coat and boots + Windbreaker
+25.0,40,14.2,Thunderstorm,T-shirt and jeans
+36.1,82,24.8,Snow,Shorts and T-shirt + Gloves + Windbreaker
+12.9,100,14.6,Clear,Sweater and jeans
+11.8,52,20.8,Snow,Sweater and jeans + Gloves + Windbreaker
+-7.4,56,0.6,Clouds,Winter coat and boots
+3.4,66,6.8,Thunderstorm,Jacket and jeans
+26.4,34,3.9,Rain,T-shirt and jeans + Umbrella
+34.2,89,23.0,Snow,Shorts and T-shirt + Gloves + Windbreaker
+27.6,77,11.5,Thunderstorm,T-shirt and jeans
+-3.7,83,8.3,Rain,Winter coat and boots + Umbrella
+21.7,21,7.6,Thunderstorm,T-shirt and jeans
+-6.7,89,5.4,Clouds,Winter coat and boots
+27.4,56,21.2,Clear,T-shirt and jeans + Windbreaker
+38.2,62,5.6,Clear,Shorts and T-shirt
+7.2,94,15.1,Thunderstorm,Jacket and jeans + Windbreaker
+38.3,53,15.2,Thunderstorm,Shorts and T-shirt + Windbreaker
+0.1,85,8.4,Clouds,Jacket and jeans
+25.9,61,16.2,Drizzle,T-shirt and jeans + Umbrella + Windbreaker
+-9.5,62,2.6,Drizzle,Winter coat and boots + Umbrella
+31.2,53,23.1,Snow,Shorts and T-shirt + Gloves + Windbreaker
+-1.6,55,14.0,Thunderstorm,Winter coat and boots
+15.2,63,18.8,Thunderstorm,Sweater and jeans + Windbreaker
+9.5,67,5.7,Rain,Jacket and jeans + Umbrella
+-5.8,97,10.0,Snow,Winter coat and boots + Gloves
+3.2,47,21.2,Thunderstorm,Jacket and jeans + Windbreaker
+12.4,29,19.9,Snow,Sweater and jeans + Gloves + Windbreaker
+33.2,91,7.1,Clouds,Shorts and T-shirt
+-9.5,69,9.4,Clouds,Winter coat and boots
+8.0,30,14.1,Snow,Jacket and jeans + Gloves
+6.9,26,1.4,Drizzle,Jacket and jeans + Umbrella
+36.9,53,16.6,Drizzle,Shorts and T-shirt + Umbrella + Windbreaker
+36.6,38,22.1,Clear,Shorts and T-shirt + Windbreaker
+-2.4,86,6.2,Clouds,Winter coat and boots
+36.1,70,1.6,Drizzle,Shorts and T-shirt + Umbrella
+21.3,37,4.3,Clear,T-shirt and jeans
+37.2,61,9.2,Thunderstorm,Shorts and T-shirt
+37.8,22,13.8,Clear,Shorts and T-shirt
+36.5,32,2.9,Thunderstorm,Shorts and T-shirt
+-9.8,26,24.0,Clear,Winter coat and boots + Windbreaker
+-3.1,89,5.4,Thunderstorm,Winter coat and boots
+3.4,66,0.5,Rain,Jacket and jeans + Umbrella
+19.2,38,4.6,Clouds,Sweater and jeans
+7.7,82,1.2,Clouds,Jacket and jeans
+0.0,41,23.4,Snow,Jacket and jeans + Gloves + Windbreaker
+6.8,52,19.6,Thunderstorm,Jacket and jeans + Windbreaker
+35.4,62,13.8,Drizzle,Shorts and T-shirt + Umbrella
+15.9,76,1.3,Drizzle,Sweater and jeans + Umbrella
+26.9,63,3.2,Clear,T-shirt and jeans
+0.2,44,12.6,Thunderstorm,Jacket and jeans
+-1.4,31,9.8,Drizzle,Winter coat and boots + Umbrella
+14.6,25,5.8,Snow,Sweater and jeans + Gloves
+-0.7,55,8.8,Drizzle,Winter coat and boots + Umbrella
+39.0,61,11.5,Rain,Shorts and T-shirt + Umbrella
+6.4,83,20.7,Snow,Jacket and jeans + Gloves + Windbreaker
+35.9,67,5.8,Drizzle,Shorts and T-shirt + Umbrella
+-4.1,97,10.4,Rain,Winter coat and boots + Umbrella
+-3.9,29,16.0,Drizzle,Winter coat and boots + Umbrella + Windbreaker
+38.7,67,6.7,Clear,Shorts and T-shirt
+19.4,70,5.2,Rain,Sweater and jeans + Umbrella
+24.4,43,16.5,Clouds,T-shirt and jeans + Windbreaker
+6.7,31,1.5,Drizzle,Jacket and jeans + Umbrella
+23.7,92,5.9,Rain,T-shirt and jeans + Umbrella
+36.9,93,14.2,Thunderstorm,Shorts and T-shirt
+-9.6,98,7.7,Clouds,Winter coat and boots
+10.8,64,0.0,Thunderstorm,Sweater and jeans
+13.0,71,16.0,Clear,Sweater and jeans + Windbreaker
+23.5,100,4.5,Rain,T-shirt and jeans + Umbrella
+-7.1,35,2.4,Clear,Winter coat and boots
+-1.4,41,8.4,Clear,Winter coat and boots
+24.2,64,11.7,Clouds,T-shirt and jeans
+35.5,38,9.7,Thunderstorm,Shorts and T-shirt
+10.2,52,12.8,Drizzle,Sweater and jeans + Umbrella
+10.4,88,11.1,Clear,Sweater and jeans
+22.2,44,5.0,Drizzle,T-shirt and jeans + Umbrella
+22.9,37,3.1,Snow,T-shirt and jeans + Gloves
+-9.0,89,21.2,Drizzle,Winter coat and boots + Umbrella + Windbreaker
+20.6,69,24.1,Drizzle,T-shirt and jeans + Umbrella + Windbreaker
+18.7,63,18.9,Thunderstorm,Sweater and jeans + Windbreaker
+33.3,81,23.8,Thunderstorm,Shorts and T-shirt + Windbreaker
+39.4,75,20.1,Clouds,Shorts and T-shirt + Windbreaker
+0.4,96,21.8,Clear,Jacket and jeans + Windbreaker
+6.1,52,24.6,Clouds,Jacket and jeans + Windbreaker
+5.5,42,7.3,Rain,Jacket and jeans + Umbrella
+23.8,60,1.8,Clear,T-shirt and jeans
+14.1,56,8.6,Snow,Sweater and jeans + Gloves
+9.7,48,20.5,Snow,Jacket and jeans + Gloves + Windbreaker
+33.2,79,15.5,Snow,Shorts and T-shirt + Gloves + Windbreaker
+2.6,73,8.0,Clouds,Jacket and jeans
+31.3,24,7.6,Drizzle,Shorts and T-shirt + Umbrella
+34.4,47,22.5,Thunderstorm,Shorts and T-shirt + Windbreaker
+13.2,88,23.8,Drizzle,Sweater and jeans + Umbrella + Windbreaker
+-3.1,58,3.2,Clouds,Winter coat and boots
+-8.2,44,1.8,Rain,Winter coat and boots + Umbrella
+37.3,46,22.1,Rain,Shorts and T-shirt + Umbrella + Windbreaker
+13.8,39,17.2,Snow,Sweater and jeans + Gloves + Windbreaker
+29.7,57,15.1,Clouds,Shorts and T-shirt + Windbreaker
+-1.1,30,20.4,Thunderstorm,Winter coat and boots + Windbreaker
+38.4,39,20.0,Thunderstorm,Shorts and T-shirt + Windbreaker
+35.2,67,4.6,Clouds,Shorts and T-shirt
+26.0,99,20.7,Clouds,T-shirt and jeans + Windbreaker
+-2.9,29,17.0,Thunderstorm,Winter coat and boots + Windbreaker
+27.1,44,11.6,Thunderstorm,T-shirt and jeans
+3.1,56,13.8,Clouds,Jacket and jeans
+20.5,74,23.2,Thunderstorm,T-shirt and jeans + Windbreaker
+30.1,72,3.2,Clear,Shorts and T-shirt
+22.3,20,9.6,Drizzle,T-shirt and jeans + Umbrella
+26.2,34,20.3,Clouds,T-shirt and jeans + Windbreaker
+20.3,68,16.8,Thunderstorm,T-shirt and jeans + Windbreaker
+-2.7,100,7.0,Drizzle,Winter coat and boots + Umbrella
+25.2,50,13.9,Rain,T-shirt and jeans + Umbrella
+5.3,24,20.6,Drizzle,Jacket and jeans + Umbrella + Windbreaker
+28.8,55,9.7,Thunderstorm,Shorts and T-shirt
+15.0,60,17.1,Thunderstorm,Sweater and jeans + Windbreaker
+13.1,77,8.9,Rain,Sweater and jeans + Umbrella
+23.7,52,23.2,Snow,T-shirt and jeans + Gloves + Windbreaker
+-0.1,35,3.1,Clear,Winter coat and boots
+16.6,67,12.3,Clouds,Sweater and jeans
+-9.9,99,20.6,Drizzle,Winter coat and boots + Umbrella + Windbreaker
+24.1,39,20.6,Drizzle,T-shirt and jeans + Umbrella + Windbreaker
+31.8,37,15.3,Rain,Shorts and T-shirt + Umbrella + Windbreaker
+15.4,60,24.3,Snow,Sweater and jeans + Gloves + Windbreaker
+12.0,85,10.3,Snow,Sweater and jeans + Gloves
+2.8,89,20.7,Clear,Jacket and jeans + Windbreaker
+29.0,92,14.9,Thunderstorm,Shorts and T-shirt
+2.2,89,15.1,Clouds,Jacket and jeans + Windbreaker
+24.9,40,20.0,Rain,T-shirt and jeans + Umbrella + Windbreaker
+27.1,56,4.5,Clouds,T-shirt and jeans
+38.8,60,2.6,Clear,Shorts and T-shirt
+-5.3,28,4.3,Clear,Winter coat and boots
+18.1,63,18.7,Clear,Sweater and jeans + Windbreaker
+16.7,99,7.7,Rain,Sweater and jeans + Umbrella
+10.6,66,3.9,Clouds,Sweater and jeans
+18.7,56,9.4,Rain,Sweater and jeans + Umbrella
+-0.4,31,18.4,Thunderstorm,Winter coat and boots + Windbreaker
+-7.4,81,13.7,Rain,Winter coat and boots + Umbrella
+34.4,49,9.1,Drizzle,Shorts and T-shirt + Umbrella
+-1.8,37,1.0,Thunderstorm,Winter coat and boots
+-8.2,69,14.6,Rain,Winter coat and boots + Umbrella
+26.0,52,22.5,Drizzle,T-shirt and jeans + Umbrella + Windbreaker
+7.9,56,3.7,Clouds,Jacket and jeans
+31.9,88,21.5,Snow,Shorts and T-shirt + Gloves + Windbreaker
+-1.7,60,10.0,Clouds,Winter coat and boots
+6.0,63,8.8,Clouds,Jacket and jeans
+23.3,80,7.1,Clear,T-shirt and jeans
+-3.4,81,13.8,Thunderstorm,Winter coat and boots
+28.1,96,22.6,Thunderstorm,Shorts and T-shirt + Windbreaker
+20.5,85,7.3,Clouds,T-shirt and jeans
+-0.5,61,11.2,Clear,Winter coat and boots
+28.4,33,4.2,Clear,Shorts and T-shirt
+-6.4,57,24.4,Thunderstorm,Winter coat and boots + Windbreaker
+18.2,74,18.5,Clouds,Sweater and jeans + Windbreaker
+35.4,45,5.4,Snow,Shorts and T-shirt + Gloves
+0.4,86,16.2,Clouds,Jacket and jeans + Windbreaker
+31.9,29,11.1,Snow,Shorts and T-shirt + Gloves
+20.4,88,24.4,Thunderstorm,T-shirt and jeans + Windbreaker
+3.3,59,24.9,Drizzle,Jacket and jeans + Umbrella + Windbreaker
+-4.0,82,5.7,Drizzle,Winter coat and boots + Umbrella
+24.8,74,20.7,Clouds,T-shirt and jeans + Windbreaker
+2.8,20,1.0,Rain,Jacket and jeans + Umbrella
+10.6,36,10.4,Clouds,Sweater and jeans
+18.6,47,13.8,Thunderstorm,Sweater and jeans
+31.3,24,14.5,Clear,Shorts and T-shirt
+-2.4,51,6.6,Clear,Winter coat and boots
+15.7,100,18.7,Snow,Sweater and jeans + Gloves + Windbreaker
+1.4,39,4.5,Clouds,Jacket and jeans
+27.4,22,13.4,Snow,T-shirt and jeans + Gloves
+20.3,35,20.6,Drizzle,T-shirt and jeans + Umbrella + Windbreaker
+2.7,72,2.2,Thunderstorm,Jacket and jeans
+23.4,74,1.4,Rain,T-shirt and jeans + Umbrella
+-4.8,87,0.3,Snow,Winter coat and boots + Gloves
+4.4,71,20.3,Thunderstorm,Jacket and jeans + Windbreaker
+0.0,97,24.0,Clear,Jacket and jeans + Windbreaker
+31.9,51,16.5,Snow,Shorts and T-shirt + Gloves + Windbreaker
+9.4,56,6.9,Drizzle,Jacket and jeans + Umbrella
+12.3,74,22.2,Clear,Sweater and jeans + Windbreaker
